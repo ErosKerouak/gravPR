@@ -1,7 +1,9 @@
+---------------
 XYZ ASCII files
 ---------------
 columns: longitude, latitude, anomaly
 
+-----------------
 Coordinate System
 -----------------
 Type: TRANSVERSE_MERCATOR
