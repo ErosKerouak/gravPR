@@ -5,5 +5,5 @@
 ![](https://github.com/ErosKerouak/gravPR/blob/main/logos.png)
 ###### Dezembro/2023
 
-![](https://github.com/ErosKerouak/gravPR/img/blob/main/basemap.jpg)
+![](https://github.com/ErosKerouak/gravPR/blob/main/img/basemap.jpg)
 
