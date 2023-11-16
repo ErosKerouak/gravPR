@@ -1,5 +1,5 @@
-XYZ files
----------
+XYZ ASCII files
+---------------
 columns: longitude, latitude, anomaly
 
 Coordinate System
