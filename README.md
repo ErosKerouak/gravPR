@@ -6,8 +6,8 @@
 ![](https://github.com/ErosKerouak/gravPR/blob/main/logos.png)
 ###### Dezembro/2023
 
-#Base de dados
-######A compilação foi realizada com dados disponibilizados pelo Serviço Geológico Brasileiro (SGB-CPRM), pela Agência Nacional de Petróleo (ANP), e pelo Prof. Tiago Lima Rodrigues, do Departamento de Geomática da UFPR. Os dados foram tratados utilizando algoritmos em Pyhton, com apoio de ferramentas do programa Oasis Montaj, disponibilizado pelo LPGA-UFPR. 
+###### Base de dados
+###### A compilação foi realizada com dados disponibilizados pelo Serviço Geológico Brasileiro (SGB-CPRM), pela Agência Nacional de Petróleo (ANP), e pelo Prof. Tiago Lima Rodrigues, do Departamento de Geomática da UFPR. Os dados foram tratados utilizando algoritmos em Pyhton, com apoio de ferramentas do programa Oasis Montaj, disponibilizado pelo LPGA-UFPR. 
 
 ![](https://github.com/ErosKerouak/gravPR/blob/main/img/basemap.jpg)
 
